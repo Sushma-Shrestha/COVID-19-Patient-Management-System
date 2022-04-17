@@ -1,0 +1,37 @@
+1--Sushma Shrestha--ACC--A--20--F--A+--986545659--sushma@gmail.com--2021-04-16
+2--Sunil Shrestha--ATO--A--22--M--A+--9854567345--sunil@gmail.com--2021-04-16
+3--Januka kandel--AEO--B--19--F--B+--9800008765--januka@gmail.com--2021-04-16
+4--Parbati Thapa Magar--SID--B--35--F--A---98433343433--parbati@gmail.com--2021-04-16
+5--Chandra Kumar Shrestha--AHS--B--45--M--O+--9800877897--chandra@gmail.com--2021-04-16
+6--Devi Lal Gharti--AHS--D--32--M--B---9876767387--devilal@gmail.com--2021-04-16
+7--Bikram Gurung--ACC--D--25--M--A---980990907--bikram@gmail.com--2021-04-16
+8--Binod Shrestha--ATO--C--23--M--B+--9811212122--binod2gmail.com--2021-04-16
+9--Maya Gurung--ACC--D--45--F--A---986667775--maya@gmail.com--2021-04-16
+10--Sarmila Gurung--AEO--A--28--F--B---98765675--sarmila@gmail.com--2021-04-16
+11--Sarita Thapa--AEO--A--33--F--A+--98766754556--sarita@gmail.com--2021-04-16
+12--Shree Prasad Neupane--ATO--A--50--M--B+--986567868--shree@gmail.com--2021-04-16
+13--Tek Bahadur Kafl--AHS--A--54--M--B+--9876578757--telbdr@gmail.com--2021-04-16
+14--Ramila Pradhan--AEO--C--27--F--A+--9895489413--ramila@gmail.om--2021-04-16
+15--Ela pradhan--SID--D--19--F--A+--9867664656--elapradhan@gmail.com--2021-04-16
+16--Neha Gurung--ATO--D--36--F--A---987890878--neha@gmail.com--2021-04-16
+17--Hari lal Budathoki--AHS--B--24--M--A+--9876787556--hari@gmail.com--2021-04-16
+18--Bipul Chettri--ACC--C--29--M--B---9876577654--bipu@gmail.com--2021-04-16
+19--Tara Devi--AEO--C--21--F--A+--9856687576--tara@gmail.com--2021-04-16
+20--Sahil Pradhan--SID--B--14--M--B---9875645768--sahil@gmail.com--2021-04-16
+21--Adrica Pradhan--AHS--D--16--F--B+--9865677867--adrica@gmail.com--2021-04-16
+22--Ruby Thapa--AHS--B--36--F--O+--9865768797--ruby@gmail.com--2021-04-16
+23--Purnima Sapkota--ATO--A--59--F--A+--9865789665--purnima@gmail.com--2021-04-16
+24--Payal Thakur--AEO--C--50--F--B+--9876546754--paya@gmail.com--2021-04-16
+25--Amir tribedi--ACC--A--37--M--A+--9887657676--amir@gmail.com--2021-04-16
+26--Justin Biber--SID--D--27--M--A+--9876545--justin@gmail.com--2021-04-16
+27--Manish Poudel--ATO--B--44--M--A---987656768--manish@gmail.com--2021-04-16
+28--Kamal Hamal--ACC--C--47--M--B+--986546576--kamal@gmail.com--2021-04-16
+29--Srijana--AEO--A--23--F--B---987654576--srijana@gmail.com--2021-04-16
+30--Sangina Shrestha--AHS--C--59--F--B---98765465768--sangina@gmail.com--2021-04-16
+31--Sumana Shrestha--SID--B--22--F--A+--988765676--sumana@gmail.com--2021-04-17
+32--Sandip Adhikari--ATO--A--25--M--A+--9898765--sandip@gmail.com--2021-04-17
+33--Mamata Bastola--ATO--A--57--F--B+--987657687--mamata@gmail.com--2021-04-18
+34--Sriya Adhikari--ACC--D--62--F--B+--98656789--sriya@gmail.com--2021-04-18
+35--Manita Shrestha--ACC--D--73--F--A---9867568798--manita@gmail.com--2021-04-18
+36--Kripa Magar--SID--D--47--F--B---98876786576--kripa@gmail.com--2021-04-18
+37--sdfgh fghj--ATO--A--20--M--A--989765459585--sdfyu@gmail.com--2021-05-03
